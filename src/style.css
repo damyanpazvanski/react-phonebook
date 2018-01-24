@@ -1,0 +1,13 @@
+.alert-warning:hover {
+    background: coral;
+    color: white;
+    cursor: pointer;
+}
+.selected {
+    background: lightgray;
+    color: #ffffff! important;
+}
+.selected:hover {
+    background: lightgray! important;
+    color: gray! important;
+}
